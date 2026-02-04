@@ -7,8 +7,7 @@ I am still thinking about what kind of original application would be useful for 
 
 ## Current behavior of the app
 
-<img align="left" width="200" src="repo_assets/v1.png" /> Descartes currently displays a very simple interface, which tell the user about the current time since the startup of the calculator in milliseconds, and the used OS between Simulator, Epsilon or Upsilon.
-
+Descartes currently displays a very simple interface, which tell the user about the current time since the startup of the calculator in milliseconds, and the used OS between Simulator, Epsilon or Upsilon.
 
 ## Setup
 
