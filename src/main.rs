@@ -23,7 +23,7 @@ fn main() {
 
     push_rect_uniform(SCREEN_RECT, Color565::from_rgb888(255, 255, 255));
     draw_string(
-        "Bonjour...",
+        "Let there be usefulness...",
         ScreenPoint::new(20, 20),
         true,
         Color565::from_rgb888(0, 0, 0),
@@ -31,21 +31,21 @@ fn main() {
     );
     match get_calculator_model() {
         CalculatorModel::Upsilon => draw_string(
-            "Hello from Upsilon!",
+            "You're using Upsilon!",
             ScreenPoint::new(20, 50),
             true,
             Color565::from_rgb888(0, 0, 0),
             Color565::new(255, 255, 255),
         ),
         CalculatorModel::Simulator => draw_string(
-            "Hello from Simulator!",
+            "You're using a Simulator!",
             ScreenPoint::new(20, 50),
             true,
             Color565::from_rgb888(0, 0, 0),
             Color565::new(255, 255, 255),
         ),
         _ => draw_string(
-            "Hello from Epsilon!",
+            "You're using Epsilon!",
             ScreenPoint::new(20, 50),
             true,
             Color565::from_rgb888(0, 0, 0),

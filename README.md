@@ -5,6 +5,10 @@ Descartes is an application made for different tests, meant to be used inside a 
 
 I am still thinking about what kind of original application would be useful for a student. From hard to imagine spreadsheets to dumb enough pomodoro apps, I will take my time to find something truly satisfying! 
 
+## Current behavior of the app
+
+Descartes currently displays a very simple interface, which tell the user about the current time since the startup of the calculator in milliseconds, and the used OS between Simulator, Epsilon or Upsilon.
+
 ## Setup
 
 If you are on a Debian based Linux Distro (Debian, Ubuntu, Linux Mint, ...), you simply have to run `bash ./setup.sh` to install all the dependencies (You might have to reopen your terminal to reload the PATH).
