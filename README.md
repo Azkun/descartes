@@ -1,7 +1,7 @@
 # Descartes
 ![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg) ![MIT License](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg)
 
-Descartes is an application made for different tests, meant to be used inside a [Numworks calculator](https://www.numworks.com/). For now, its purpose remains undetermined, and I can only hope to one day find a true useful aim for it. It was made using [NumworksAppsRust](https://github.com/yannis300307/NumworksAppsRust), which is a pretty easy to use template to make Rust apps and compile them for the calculator.
+Descartes is an application made for different tests, meant to be used inside a [Numworks calculator](https://www.numworks.com/). For now, its purpose remains undetermined, and I can only hope to one day find a true useful aim for it. It was made using [NumworksAppsRust](https://github.com/yannis300307/NumworksAppsRust), which is a pretty easy to use template to make Rust apps and compile them for the calculator. Be aware that there was some changes to the rust libraries to make some things in Descartes easier to code. 
 
 I am still thinking about what kind of original application would be useful for a student. From hard to imagine spreadsheets to dumb enough pomodoro apps, I will take my time to find something truly satisfying! 
 
